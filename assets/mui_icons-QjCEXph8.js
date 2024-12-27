@@ -1,1 +1,0 @@
-import{c as r,j as c}from"./mui_material-CsCYfgW6.js";import"./react-But5b_vu.js";const t=r(c.jsx("path",{d:"M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"}),"ArrowBack"),a=r(c.jsx("path",{d:"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8z"}),"CheckCircle");export{t as A,a as C};
